@@ -1,7 +1,4 @@
 # Algo_Quest_ArnavDhoot_240352
-# Algo_Quest_ArnavDhoot_240352
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/entropy-py/Algo_Quest_ArnavDhoot_240352)
-
 This repository contains C++ solutions to a collection of data structures and algorithms problems. The solutions are organized into weekly directories, covering topics such as arrays, strings, linked lists, sliding window techniques, and binary search.
 
 ## Repository Structure
